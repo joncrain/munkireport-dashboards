@@ -1,0 +1,5 @@
+display_name: Bluetooth Report
+hotkey: 
+row1:
+  bluetooth_battery:
+  bluetooth_power_state:

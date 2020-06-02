@@ -1,0 +1,10 @@
+display_name: Client Report
+hotkey: 
+row1:
+    registered_clients:
+row2:
+    client:
+    filevault:
+row3:
+    os:
+    osbuild:
